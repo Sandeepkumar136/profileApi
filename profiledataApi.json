@@ -40,7 +40,7 @@
       },
       {
         "id": 5,
-        "img": "https://github.com/Sandeepkumar136/JavaScript_Time_CountDown",
+        "img": "https://i.ibb.co/Z1qFRpN/qoute.jpg",
         "heading": "Qoute App",
         "alt": "pagination image",
         "description": "A quote generator app generates inspirational, motivational, or themed quotes randomly or based on user preferences, offering daily doses of wisdom and inspiration.",
@@ -49,39 +49,39 @@
       },
       {
         "id": 6,
-        "img": "https://i.ibb.co/vX7sQtS/Screenshot-2024-06-21-062144.png",
-        "heading": "To-DO list",
+        "img": "https://i.ibb.co/gtBq3Ls/billingsystem.jpg",
+        "heading": "Billing System",
         "alt": "pagination image",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nihil molestiae recusandae enim modi reiciendis autem error, veniam dolores maiores, ab exercitationem facere pariatur earum beatae suscipit natus repellat nam.",
-        "label": "javascript",
-        "explore_link": "https://github.com/sandeepKumar136"
+        "description": "A billing system project automates invoicing, tracks payments, manages customer accounts, and generates financial reports, ensuring efficient and accurate financial transactions for businesses.",
+        "label": "Python",
+        "explore_link": "https://github.com/Sandeepkumar136/Billng_System"
       },
       {
         "id": 7,
         "img": "https://i.ibb.co/vX7sQtS/Screenshot-2024-06-21-062144.png",
-        "heading": "To-DO list",
+        "heading": "Text Utilizer",
         "alt": "pagination image",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nihil molestiae recusandae enim modi reiciendis autem error, veniam dolores maiores, ab exercitationem facere pariatur earum beatae suscipit natus repellat nam.",
-        "label": "javascript",
-        "explore_link": "https://github.com/sandeepKumar136"
+        "description": "A text utilizer app provides various text manipulation tools such as formatting, case conversion, word count, and text analysis, enhancing productivity and efficiency for users.",
+        "label": "React",
+        "explore_link": "https://github.com/Sandeepkumar136/Text_Utilization"
       },
       {
         "id": 8,
-        "img": "https://i.ibb.co/vX7sQtS/Screenshot-2024-06-21-062144.png",
-        "heading": "To-DO list",
+        "img": "https://i.ibb.co/GppxZb5/jarvesai.jpg",
+        "heading": "Jarves AI",
         "alt": "pagination image",
-        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nihil molestiae recusandae enim modi reiciendis autem error, veniam dolores maiores, ab exercitationem facere pariatur earum beatae suscipit natus repellat nam.",
-        "label": "javascript",
-        "explore_link": "https://github.com/sandeepKumar136"
+        "description": "A Jarvis AI project aims to create an intelligent personal assistant that automates tasks, answers queries, controls smart devices, and provides personalized assistance through voice or text commands.",
+        "label": "Python",
+        "explore_link": "https://github.com/Sandeepkumar136/jarvesai"
       },
       {
         "id": 9,
-        "img": "https://i.ibb.co/vX7sQtS/Screenshot-2024-06-21-062144.png",
+        "img": "https://i.ibb.co/QK5FLC5/todo.jpg",
         "heading": "To-DO list",
         "alt": "pagination image",
-        "description": "Sandeep Kumar sit amet consectetur adipisicing elit. Qui, nihil molestiae recusandae enim modi reiciendis autem error, veniam dolores maiores, ab exercitationem facere pariatur earum beatae suscipit natus repellat nam.",
-        "label": "javascript",
-        "explore_link": "https://github.com/sandeepKumar136"
+        "description": "A to-do app helps users organize tasks, set deadlines, prioritize activities, and track progress, enhancing productivity and time management with reminders and notifications.",
+        "label": "Vanilla",
+        "explore_link": "https://github.com/Sandeepkumar136/To-Do-List"
       }
     ]
   },
