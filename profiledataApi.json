@@ -155,5 +155,118 @@
         "link": "https://codeforces.com/profile/sandeepkumar136"
       }
     ]
+  },
+  {
+    "item" : 4,
+    "BlogData" : [
+    {
+        "author": "Sandeep kumar",
+        "authorImg": "https://i.ibb.co/RNSJXNC/FB-IMG-1652607151685.jpg",
+        "time": "06 07 2024",
+        "id":1,
+        "title": " Enhancing User Experience: Creating a Unique Hover Effect for UL Links",
+        "disc": "focuses on designing interactive, visually appealing hover effects for unordered list links to engage users better.",
+        "link": "https://codewithsanju136.blogspot.com/2024/07/enhancing-user-experience-creating.html"
+    },
+    {
+        "author": "Sandeep kumar",
+        "authorImg": "https://i.ibb.co/RNSJXNC/FB-IMG-1652607151685.jpg",
+        "time": "06 07 2024",
+        "id": 2,
+        "title" : "Mastering Visual Elegance: Exploring CSS Linear Gradients",
+        "disc": "delves into creating sophisticated, visually appealing backgrounds and effects using CSS linear gradients, enhancing web design aesthetics and user experience.",
+        "link": "https://codewithsanju136.blogspot.com/2024/07/mastering-visual-elegance-exploring-css.html"
+    },
+    {
+        "author": "Sandeep kumar",
+        "authorImg": "https://i.ibb.co/RNSJXNC/FB-IMG-1652607151685.jpg",
+        "time": "06 07 2024",
+        "id": 3,
+        "title": "Navigating the Infinite: Unraveling the Magic of the Infinity Loop",
+        "disc": "explores the captivating concept and design principles of infinity loops, showcasing their applications and visual allure.",
+        "link": "https://codewithsanju136.blogspot.com/2024/07/navigating-infinite-unraveling-magic-of.html"
+    },
+    {
+        "author": "Sandeep kumar",
+        "authorImg": "https://i.ibb.co/RNSJXNC/FB-IMG-1652607151685.jpg",
+        "time": "06 07 2024",
+        "id":4,
+        "title": "Mastering User Input: A Guide to Fixing Range in HTML Forms",
+        "disc": "provides practical tips for ensuring accurate, user-friendly range inputs in HTML forms, enhancing data quality and user experience.",
+        "link": "https://codewithsanju136.blogspot.com/2024/07/mastering-user-input-guide-to-fixing.html"
+    },
+    {
+        "author": "Sandeep kumar",
+        "authorImg": "https://i.ibb.co/RNSJXNC/FB-IMG-1652607151685.jpg",
+        "time": "06 07 2024",
+        "id":5,
+        "title": "Simplifying Inventory Management: Barcode Generation in Excel",
+        "disc": "offers a step-by-step guide to creating barcodes within Excel, streamlining inventory tracking, improving efficiency, and reducing errors.",
+        "link": "https://codewithsanju136.blogspot.com/2024/07/simplifying-inventory-management.html"
+    },
+    {
+        "author": "Sandeep kumar",
+        "authorImg": "https://i.ibb.co/RNSJXNC/FB-IMG-1652607151685.jpg",
+        "time": "06 07 2024",
+        "id": 6,
+        "title": "Mastering the Terminal: A Comprehensive Guide",
+        "disc": "covers essential commands, techniques, and best practices for effectively using the terminal, empowering users to navigate and manage systems efficiently.",
+        "link": "https://codewithsanju136.blogspot.com/2024/07/mastering-terminal-comprehensive-guide.html"
+    },
+    {
+        "author": "Sandeep kumar",
+        "authorImg": "https://i.ibb.co/RNSJXNC/FB-IMG-1652607151685.jpg",
+        "time": "06 07 2024",
+        "id":7,
+        "title": "Exploring the Future with OpenAI: Revolutionizing AI Technology",
+        "disc": "delves into how OpenAI is advancing artificial intelligence, transforming industries, and shaping the future through innovative AI solutions.",
+        "link": "https://codewithsanju136.blogspot.com/2024/07/exploring-future-with-openai.html"
+    },
+    {
+        "author": "Sandeep kumar",
+        "authorImg": "https://i.ibb.co/RNSJXNC/FB-IMG-1652607151685.jpg",
+        "time": "06 07 2024",
+        "id":8,
+        "title": "Mastering `console.log`: Debugging Like a Pro",
+        "disc": "teaches advanced techniques for using console.log effectively, helping developers identify and fix bugs quickly, improving code quality and efficiency.",
+        "link": "https://codewithsanju136.blogspot.com/2024/07/mastering-consolelog-debugging-like-pro.html"
+    },
+    {
+        "author": "Sandeep kumar",
+        "authorImg": "https://i.ibb.co/RNSJXNC/FB-IMG-1652607151685.jpg",
+        "time": "06 07 2024",
+        "id":9,
+        "title": "Elevate Your Web Design with Boxicons",
+        "disc": "showcases how to integrate Boxicons, enhancing web design with scalable vector icons, improving aesthetics, and user interface functionality.",
+        "link": "https://codewithsanju136.blogspot.com/2024/07/elevate-your-web-design-with-boxicons.html"
+    },
+    {
+        "author": "Sandeep kumar",
+        "authorImg": "https://i.ibb.co/RNSJXNC/FB-IMG-1652607151685.jpg",
+        "time": "06 07 2024",
+        "id":10,
+        "title": "Mastering Transitions: Adding Smooth Animations to Your Web Design",
+        "disc": "explores techniques for integrating fluid animations into web interfaces, enhancing user engagement and visual appeal with seamless transitions.",
+        "link": "https://codewithsanju136.blogspot.com/2024/07/mastering-transitions-adding-smooth.html"
+    },
+    {
+        "author": "Sandeep kumar",
+        "authorImg": "https://i.ibb.co/RNSJXNC/FB-IMG-1652607151685.jpg",
+        "time": "06 07 2024",
+        "id": 11,
+        "title": "Exploring CSS Transforms: Elevating Your Web Design",
+        "disc": "guides you through utilizing CSS transforms to enhance web design, offering dynamic visual effects and improved user experience through transformative elements.",
+        "link": "https://codewithsanju136.blogspot.com/2024/07/exploring-css-transforms-elevating-your.html"
+    },
+    {
+        "author": "Sandeep kumar",
+        "authorImg": "https://i.ibb.co/RNSJXNC/FB-IMG-1652607151685.jpg",
+        "time": "06 07 2024",
+        "id": 12,
+        "title": "Demystifying React Router: Navigating Your Single Page Applications",
+        "disc": "simplifies understanding and implementing React Router for seamless navigation in single-page applications, optimizing user experience and application performance.",
+        "link": "https://codewithsanju136.blogspot.com/2024/07/demystifying-react-router-navigating.html"
+    }
+]
   }
 ]
